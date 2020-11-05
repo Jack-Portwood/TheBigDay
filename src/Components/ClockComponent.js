@@ -2,7 +2,7 @@ import React, { Fragment, useEffect, useRef, useState } from "react";
 
 const countDownText = "Time until their special day";
 
-const newYearText = "Congradulatio to Joseph and Michelle on their special day";
+const newYearText = "Congratulations to Joseph and Michelle on their special day";
 
 
 const ClockComponent = () => {
