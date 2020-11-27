@@ -1,3 +1,11 @@
+# TheBigDay
+![Imgur](https://i.imgur.com/WZRXesm.png)
+# Countdown
+![Imgur](https://i.imgur.com/eGpf3Rl.png)
+# Expired 
+
+# Development BackGround
+This is the reuse of the [NYE-count-down-clock](https://github.com/Jack-Portwood/NYE_count_down_clock) for a friends wedding day.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
